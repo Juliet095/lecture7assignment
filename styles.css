@@ -1,0 +1,17 @@
+h1{
+    color:green;
+    text-align: center;
+    direction: rtl;
+    vertical-align: baseline;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    text-decoration-thickness:inherit;
+    text-decoration-color: gold;
+    text-indent: 10px;
+    letter-spacing: 1px;
+    word-spacing: normal;
+    line-height: 0.9;
+    text-shadow: 2px 2px;
+    
+
+}

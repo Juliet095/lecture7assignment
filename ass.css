@@ -1,0 +1,31 @@
+body{
+    background-image: url(./Images/her.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    opacity: 80%;
+}
+h2{
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    text-align: left;
+    margin-left: 1250px;
+    margin-top: -55px;
+}
+
+h5{
+    text-align: bottom;
+    margin-left: 1250px;
+    margin-top: 450px;
+}
+div{
+    margin-top:-45px ;
+}
+span{
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
